@@ -62,12 +62,6 @@ Checkpoint offers a decentralized self-auditing framework for CEX reserves, leve
 3. **Phase 3:** Launch the platform for select CEXs, iterate based on community feedback.
 4. **Phase 4:** Expand platform functionalities and support for additional exchanges.
 
-## Contributors
-
-- [Your Name] - Project Lead
-- [Contributor 1]
-- [Contributor 2]
-... (add more as needed)
 
 ## License
 
