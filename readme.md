@@ -64,9 +64,8 @@ Checkpoint offers a decentralized self-auditing framework for CEX reserves, leve
 
 ## Contributors
 
-- [Your Name] - Project Lead
-- [Contributor 1]
-- [Contributor 2]
+- Shabbir Khan- Project Lead
+
 ... (add more as needed)
 
 ## License
